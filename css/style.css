@@ -18,3 +18,15 @@
   margin: auto;
   display: block;
 }
+
+.portfolio-title {
+  font-size: 45px;
+}
+
+.portfolio-text {
+  font-size: 30px;
+}
+
+.portfolio-des {
+  width: 100%;
+}
