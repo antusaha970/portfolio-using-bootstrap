@@ -4,3 +4,17 @@
 .dark-bg {
   background: #1a1a1a;
 }
+
+.base-color {
+  color: #00ffff;
+}
+.title-color {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.banner-img {
+  height: 500px;
+  margin: auto;
+  display: block;
+}
