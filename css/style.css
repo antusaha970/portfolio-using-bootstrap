@@ -42,3 +42,7 @@
 .form-control::-webkit-input-placeholder {
   color: white;
 }
+
+.footer-border {
+  border-top: 1px solid #5e5e5e;
+}
